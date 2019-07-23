@@ -1,0 +1,18 @@
+html {
+    font-family: Verdana;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+/*Header*/
+header h1 {
+    font-size: 50px;
+    padding: 45px;
+}
+
+header p {
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+}
