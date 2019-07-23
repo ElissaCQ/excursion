@@ -16,3 +16,8 @@ header p {
     font-size: 16px;
     text-decoration: underline;
 }
+
+/* Video */
+p video  {
+    padding-top: 15px;
+}
