@@ -67,3 +67,14 @@ p img  {
 p {
     margin: 0;
 }
+
+/* Footer */
+footer {
+    padding: 20px;
+}
+
+footer h6 {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+}
