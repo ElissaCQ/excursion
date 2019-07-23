@@ -1,14 +1,17 @@
-html {
+* {
     font-family: Verdana;
     background-color: black;
     text-align: center;
     color: white;
+    font-weight: normal;
 }
 
 /*Header*/
 header h1 {
     font-size: 50px;
-    padding: 45px;
+    padding-top: 35px;
+    padding-bottom: 10px;
+    font-family: Verdana;
 }
 
 header p {
@@ -23,21 +26,26 @@ p video  {
 }
 
 /* Uses sction */
-.uses_sec h2 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+main h2 {
+    font-family: Verdana;
     font-weight: 300;
     font-size: 42px;
-    padding: 40px;
+    padding-top: 30px;
+    padding-bottom: 10px;
 }
 
-.uses_sec h5 {
+main h5 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: gray;
     font-size: 21px;
-    padding: 40px
+    padding: 10px;
+    padding-bottom: 0;
 }
 
-.uses_sec img {
-    width: 20%;
+main img {
+    width: 66%;
     height: auto;
+    position: relative;
+    bottom: 15px;
+    padding: 0;
 }
